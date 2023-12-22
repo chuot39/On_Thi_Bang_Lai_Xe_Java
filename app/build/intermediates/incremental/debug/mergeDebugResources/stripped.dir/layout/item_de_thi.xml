@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_margin="2dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/radio_box">
+
+    <TextView
+        android:id="@+id/txt_DeThi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="15dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:shadowColor="@color/text_shadow"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="2"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginEnd="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/ivCauDung"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:gravity="center"
+            app:srcCompat="@drawable/baseline_check_circle_24" />
+
+        <TextView
+            android:visibility="invisible"
+            android:id="@+id/txtSoCauDung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:layout_marginEnd="10dp"/>
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/ivSai"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:srcCompat="@drawable/baseline_cancel_24" />
+
+        <TextView
+            android:visibility="invisible"
+            android:id="@+id/txtSoCauSai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1" />
+    </LinearLayout>
+</LinearLayout>

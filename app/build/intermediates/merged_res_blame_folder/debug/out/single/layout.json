@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/fragment_result.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/nopbai_dialog.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/nopbai_dialog.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_on_boarding.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_cau_hoi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_cau_hoi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_splash.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_cau_hoi_save.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_cau_hoi_save.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/custom_alter_dailog.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/custom_alter_dailog.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_loaibienbao.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_loaibienbao.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/view_function.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/view_function.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_cau_hoi_result.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_cau_hoi_result.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_cau_luu.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_cau_luu.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_de_thi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_de_thi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_cau_sai.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_cau_sai.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_bien_bao.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_bien_bao.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_cau_hoi_chi_tiet.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_cau_hoi_chi_tiet.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_details_bien_bao.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_details_bien_bao.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/list_item_loai_bang.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/list_item_loai_bang.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/fragment_onboarding.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_de_thi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_de_thi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/layout_bien_bao.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/layout_bien_bao.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_hay_sai.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_hay_sai.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_thi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_thi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_web.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_web.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/layout_header_banner.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/layout_header_banner.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_cau_tra_loi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_cau_tra_loi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/item_theloaicauhoi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/item_theloaicauhoi.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/toolbar.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_ket_qua.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_ket_qua.xml"
+    },
+    {
+        "merged": "com.example.OnThiBangLaiXe.app-mergeDebugResources-39:/layout/activity_cau_hoi.xml",
+        "source": "com.example.OnThiBangLaiXe.app-main-42:/layout/activity_cau_hoi.xml"
+    }
+]
